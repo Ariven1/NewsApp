@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28DB30E6-1679-43F3-BD20-3B188D2BB81D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6579DA65-3AD3-4824-B487-C1D324131679"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAppTests/NewsListViewModelUnitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "testNewsAPISuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6579DA65-3AD3-4824-B487-C1D324131679 - a5196a3bec152aaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsAppTests.NewsListViewModelUnitTest.testNewsAPIResponseNotNil() -&gt; ()"
+                  moduleName = "NewsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ariven/Desktop/NewsApp/NewsAppTests/NewsListViewModelUnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "6579DA65-3AD3-4824-B487-C1D324131679 - abbc577badda3a8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;NewsApp.NewsResponse&gt;) -&gt; () in NewsAppTests.NewsListViewModelUnitTest.testNewsAPIResponseNotNil() -&gt; ()"
+                  moduleName = "NewsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ariven/Desktop/NewsApp/NewsAppTests/NewsListViewModelUnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "6579DA65-3AD3-4824-B487-C1D324131679 - abbc577badda3a8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;NewsApp.NewsResponse&gt;) -&gt; () in NewsAppTests.NewsListViewModelUnitTest.testNewsAPIResponseNotNil() -&gt; ()"
+                  moduleName = "NewsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ariven/Desktop/NewsApp/NewsAppTests/NewsListViewModelUnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EED5A5B9-2E83-4DD1-B71C-71A66E0F9A10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAppTests/NewsListViewModelUnitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "testNewsAPISuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
